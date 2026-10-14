@@ -4,9 +4,9 @@
 
 ## Demo Video
 
-[![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20the%20Demo-red?logo=youtube)](INSERT_YOUTUBE_LINK_HERE)
+[![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20the%20Demo-red?logo=youtube)]([INSERT_YOUTUBE_LINK_HERE](https://youtu.be/G-szpOLln-s))
 
-**Video link:** INSERT_YOUTUBE_LINK_HERE
+**Video link:** [https://youtu.be/G-szpOLln-s](https://youtu.be/G-szpOLln-s)
 
 ## Team
 
